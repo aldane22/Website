@@ -1,0 +1,43 @@
+
+
+  ul {list-style-type: none;
+  margin: 0;
+  padding: 0;
+  }
+  li {
+    float: left;
+    text-transform: uppercase;
+    list-style: none;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    background-color: honeydew;
+  }
+
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: antiquewhite;
+  }
+
+  h3{
+    text-align: center;
+  }
+
+  img {
+    margin: auto;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+    
+    
+
+
+
+
+
+
+
